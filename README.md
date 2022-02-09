@@ -39,4 +39,9 @@
    Kısa bir tanımlama ve genel açıklamalardan sonra gelelim JS'nin kurulumu için ihtiyacımız olanlara 
    Öncelikle bir kod editörüne ihtiyacımız var bunun için Notepad , Sublime Text veya   Visual Studio Code iyi bir seçenek . Ben VS Code kıullanmayı tercih ettim ban daha basit ve anlaşılır geldiği için .
    
- Visual Studio Code kurmak için [*"python-lectures "*](https://github.com/shilanbashchi/python-lectures) notlarıma bakabilirsiniz 
+   # Visual Studio kurulumu 
+  [*" Visual Studio Code "*](https://github.com/shilanbashchi/python-lectures)  kurmak için linke tıklayıp notlarıma bakabilirsiniz (1.hafta notlarında krulumu anlattım)
+  
+ Daha sonra yapacağınız işlem ise JS için gerekli kurulumları yapmak bunun için VS Code giriş sayfasına gelip sol taraftaki uzantılar bölümüne tıklayıp oradan Javascript aratıp size lazım olacak kurulumları yapmanız olacak. İlk indireceğimiz uzantı - JavaScript (ES6) code snippets uzantısı daha sonra da bir tane server yüklememiz gerekiyor bunun için arama çubuğun alive server yazıp çıkan ilk sonucu indiriyoruz .
+ Tüm bunların halletikten sonra geliyoruz çok öenmli bir konuya 
+ > kullandığımız browserda  JS yi aktif hale getimemiz gerekiyo bunun için ayarlar kısmına gelip JAVASCRİPT yazıyoruz ve site ayarlarına giriyoruz altlarda bir yerde çerez ve site verileri ayarları var oradan javascripte tıklayıp onu aktif hale getiriyoruz ki  sıkıntı yaşamayalım :)
