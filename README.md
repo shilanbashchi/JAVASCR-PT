@@ -39,4 +39,4 @@
    Kısa bir tanımlama ve genel açıklamalardan sonra gelelim JS'nin kurulumu için ihtiyacımız olanlara 
    Öncelikle bir kod editörüne ihtiyacımız var bunun için Notepad , Sublime Text veya   Visual Studio Code iyi bir seçenek . Ben VS Code kıullanmayı tercih ettim ban daha basit ve anlaşılır geldiği için .
    
- Visual Studio Code kurmak için [*"python-lectures "*](/python-lectures/) notlarıma bakabilirsiniz 
+ Visual Studio Code kurmak için [*"python-lectures "*](/shilanbaschi/python-lectures) notlarıma bakabilirsiniz 
